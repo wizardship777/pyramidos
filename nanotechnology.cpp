@@ -22,4 +22,5 @@ int main() {
         //check electricity in processor APPEND
         //build M.S. -> ASI -> nanochip APPEND
     }
+    //CHANNEL ABOVE + VERIFY, Q.ML ON GROUPS
 }
