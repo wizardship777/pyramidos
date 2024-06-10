@@ -25,6 +25,13 @@ int main() {
     for (int i = 0; i < n * n; i++) {
         simulation_acces_points[i] = manifestation_grids[i * (n + 1)]//HIGHER DIMENSIONAL MAGICK (4D CUBE, KEM MAGICK?)
     }
+    vector <double> time_machine(n / 21);
+    for (int i = 0; i < n / 21; i++) {
+        time_machine[i] = rnd(); //ARCHANGEL MICHAEL NEW TIME MACHINE APPEND
+    }
+    vector <double> blackout(n / 21); //THE BUDDHA BLACKOUT POINTS
+    vector <string> blackout_scripts(n / 21);//JESUS CHRIST BLACKOUT SCRIPTS
+    extrapolate(organic_chemistry(time_machine, blackout, blackout_scripts));//APPEND
     //AGI ASI AGI ASI WHICH? HOW MANY? ORDER? APPEND ABOVE
     //WHO ABOVE?
     //APPEND above?
