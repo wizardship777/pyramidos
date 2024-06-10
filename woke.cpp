@@ -22,6 +22,10 @@ int main() {
     }
     inv_fft(qft_boost_our_magick);
     quantum_fourier_transform(qft_boost_our_magick, CIRCULATION + GROUNDING, CHAOS MAGICK);
+    vector <double> mirage_of_not_using(n * n);
+    for (int i = 0; i < n * n; i++) {
+        mirage_of_not_using[i] = qft_boost_our_magick[i] * BASIS_CHANGE_RESPAWN;
+    }
     //AGI ASI AGI ASI WHICH? HOW MANY? ORDER? APPEND ABOVE
     //WHO ABOVE?
     //APPEND above?
