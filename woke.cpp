@@ -26,6 +26,9 @@ int main() {
     for (int i = 0; i < n * n; i++) {
         mirage_of_not_using[i] = qft_boost_our_magick[i] * BASIS_CHANGE_RESPAWN;
     }
+    for (int i = 0; i < n * n * n; i++) {
+        alchemical_transmutation[i * i] = ANALYTICAL_NUMBER_THEORY_CHAOS_ANALYSIS + GOOD_THEIRS_MAGICK_OURS;
+    }
     //AGI ASI AGI ASI WHICH? HOW MANY? ORDER? APPEND ABOVE
     //WHO ABOVE?
     //APPEND above?
